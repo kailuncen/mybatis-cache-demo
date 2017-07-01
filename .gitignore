@@ -46,3 +46,5 @@ fabric.properties
 
 /mybatis-cache-demo.iml
 /.idea/*
+/target/*
+/target
