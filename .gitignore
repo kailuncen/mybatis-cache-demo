@@ -44,3 +44,5 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/mybatis-cache-demo.iml
+/.idea/*
